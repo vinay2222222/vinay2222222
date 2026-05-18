@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Vinay%20A%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20•%20AI%2FML%20Engineer%20•%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Vinay%20Anegouni%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20•%20AI%2FML%20Engineer%20•%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/vinay2222222?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)](https://github.com/vinay2222222?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=vinay2222222&style=for-the-badge&color=302b63)](https://github.com/vinay2222222)
@@ -13,8 +13,7 @@
 
 I'm **Vinay A** — a B.Tech CSE (AI & ML) graduate from TKR College of Engineering and Technology, Hyderabad, with a CGPA of **8.11/10**. I'm passionate about building intelligent systems that solve real-world problems, from financial fraud detection to sustainable waste management.
 
-- 🔬 Specialized in **Deep Learning, GNNs, and Computer Vision**
-- 🏢 Former **AI/ML Intern @ Edunet Foundation (AICTE)**
+- 🔬 Specialized in **Machine Learning, Deep Learning, DSA and Data Science**
 - 🎯 Seeking entry-level roles in AI/ML or Software Engineering
 - 📧 avinay6300@gmail.com | 📍 Hyderabad, India
 

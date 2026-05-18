@@ -118,20 +118,17 @@ I'm **Vinay A** — a CS engineer who turns raw data into decisions, models into
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinay2222222&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinay2222222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay2222222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay2222222&layout=compact&theme=tokyonight" />
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay2222222&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=e2e8f0" height="150"/>
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinay2222222&theme=tokyonight" />
+</p>
 ---
 
 ## 🤝 Connect with Me

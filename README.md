@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I'm **Vinay A** — a B.Tech CSE (AI & ML) graduate from TKR College of Engineering and Technology, Hyderabad, with a CGPA of **8.11/10**. I'm passionate about building intelligent systems that solve real-world problems, from financial fraud detection to sustainable waste management.
+I'm **Vinay A** — a CS engineer who turns raw data into decisions, models into products, and problems into elegant solutions. From catching financial fraudsters with graph neural networks to teaching machines how to sort the world's trash, I build AI that actually does something.
 
 - 🔬 Specialized in **Machine Learning, Deep Learning, DSA and Data Science**
 - 🎯 Seeking entry-level roles in AI/ML or Software Engineering

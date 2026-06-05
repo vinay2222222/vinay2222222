@@ -127,7 +127,7 @@ I'm **Vinay A** — a CS engineer who turns raw data into decisions, models into
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinay2222222&theme=tokyonight" alt="GitHub Streak" />
+  <img src="[https://streak-stats.demolab.com?user=vinay2222222&theme=tokyonight](https://streak-stats.demolab.com/?user=vinay2222222&theme=tokyonight)" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Connect with Me

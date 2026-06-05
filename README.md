@@ -119,7 +119,7 @@ I'm **Vinay A** — a CS engineer who turns raw data into decisions, models into
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay2222222&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=vinay2222222&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=vinay2222222&show_icons=true&theme=tokyonight)" alt="GitHub Stats" />
 </p>
 
 <p align="center">

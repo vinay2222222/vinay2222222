@@ -119,17 +119,16 @@ I'm **Vinay A** — a CS engineer who turns raw data into decisions, models into
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay2222222&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinay2222222&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay2222222&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay2222222&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinay2222222&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=vinay2222222&theme=tokyonight" alt="GitHub Streak" />
 </p>
----
 
 ## 🤝 Connect with Me
 
